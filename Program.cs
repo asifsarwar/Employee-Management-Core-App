@@ -7,8 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-
-namespace Employee_Management_Core_App
+namespace EmployeeManagementCoreApp
 {
     public class Program
     {
@@ -16,7 +15,6 @@ namespace Employee_Management_Core_App
         {
             CreateWebHostBuilder(args).Build().Run();
         }
-
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();

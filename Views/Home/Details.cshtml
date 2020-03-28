@@ -1,0 +1,24 @@
+﻿@model EmployeeManagementCoreApp.Models.ViewModels.HomeDetailsViewModel
+@{ 
+    ViewBag.Title = "Employee Details";
+    var photoPath = "~/images/" + (Model.Employee.PhotoPath ?? "noimage.png");
+}
+
+<div class="card-deck justify-content-center">
+    <div class="card m-3">
+        <div class="card-header">
+            <h3>@Model.Employee.Name</h3>
+        </div>
+        <div class="text-center">
+            <img class="card-img-top" src="@photoPath" asp-append-version="true" style="width:200px;height:200px" />
+            <span style="display:block"><b><label asp-for="@Model.Employee.Name"></label> : @Model.Employee.Name</b></span>
+            <span style="display:block"><b><label asp-for="@Model.Employee.Email"></label> : @Model.Employee.Email</b></span>
+            <span style="display:block"><b><label asp-for="@Model.Employee.Department"></label> : @Model.Employee.Department</b></span>
+        </div>
+        <div class="card-footer text-center">
+            @*<a asp-controller="home" asp-action="details" asp-route-id="@Model.Employee.EmployeeID" class="btn btn-primary">View</a>
+            <a asp-controller="Home" asp-action="Edit" asp-route-Id="@Model.Employee.EmployeeID" class="btn btn-primary m-1">Edit</a>
+            <a href="#" class="btn btn-danger m-1">Delete</a>*@
+        </div>
+    </div>
+</div>

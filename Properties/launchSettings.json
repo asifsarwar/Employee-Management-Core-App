@@ -12,10 +12,11 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "MyKey": "value from Environemnt Variable"
       }
     },
-    "Employee_Management_Core_App": {
+    "EmployeeManagementCoreApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "applicationUrl": "http://localhost:5000",
