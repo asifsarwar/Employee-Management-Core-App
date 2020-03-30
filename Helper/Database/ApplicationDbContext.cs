@@ -1,9 +1,11 @@
 ﻿using EmployeeManagementCoreApp.Models.DbModels;
 using Microsoft.EntityFrameworkCore;
 using EmployeeManagementCoreApp.Helper.Extentions;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+
 namespace EmployeeManagementCoreApp.Helper.Database
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
             : base(options)
@@ -18,6 +20,7 @@ namespace EmployeeManagementCoreApp.Helper.Database
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Seed();
         }
         public DbSet<DbEmployee> DbEmployee { get; set; }

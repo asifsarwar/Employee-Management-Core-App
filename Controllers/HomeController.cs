@@ -5,6 +5,7 @@ using EmployeeManagementCoreApp.Models.DbModelsRepo.Interfaces;
 using EmployeeManagementCoreApp.Models.ViewModels;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -14,10 +15,14 @@ namespace EmployeeManagementCoreApp.Controllers
     {
         private IEmployeeRepository _employeeRepository;
         private IHostingEnvironment _hostingEnvironment;
-        public HomeController(IEmployeeRepository employeeRepository,IHostingEnvironment hostingEnvironment)
+        private readonly ILogger<HomeController> logger;
+
+        public HomeController(IEmployeeRepository employeeRepository,IHostingEnvironment hostingEnvironment,ILogger <HomeController> logger)
         {
+            
             _employeeRepository = employeeRepository;
-            _hostingEnvironment = hostingEnvironment; 
+            _hostingEnvironment = hostingEnvironment;
+            this.logger = logger;
         }
         [Route("")]
         [Route("Home/Index")]

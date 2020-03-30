@@ -1,16 +1,20 @@
 ﻿using EmployeeManagementCoreApp.Helper.Database;
 using EmployeeManagementCoreApp.Models.DbModels;
 using EmployeeManagementCoreApp.Models.DbModelsRepo.Interfaces;
+using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Linq;
 namespace EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation
 {
     public class SQLEmployeeRepository : IEmployeeRepository
     {
+        private readonly ILogger<SQLEmployeeRepository> logger;
+
         private ApplicationDbContext _context { get; set; }
-        public SQLEmployeeRepository(ApplicationDbContext context)
+        public SQLEmployeeRepository(ApplicationDbContext context,ILogger<SQLEmployeeRepository> logger)
         {
             _context = context;
+            this.logger = logger;
         }
         public DbEmployee AddEmployee(DbEmployee e)
         {
@@ -35,6 +39,13 @@ namespace EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation
         }
         public DbEmployee GetEmployee(int id)
         {
+            logger.LogTrace("Trace log");
+            logger.LogDebug("Debug log");
+            logger.LogInformation("Information log");
+            logger.LogWarning("Warning log");
+            logger.LogError("Error log");
+            logger.LogCritical("Critical log");
+
             DbEmployee e = _context.DbEmployee.FirstOrDefault(x => x.EmployeeID == id);
             return e;
         }

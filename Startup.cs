@@ -3,6 +3,7 @@ using EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation;
 using EmployeeManagementCoreApp.Models.DbModelsRepo.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -16,8 +17,17 @@ namespace EmployeeManagementCoreApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDBConnection")));
+            services.AddIdentity<IdentityUser,IdentityRole>(
+            options => {
+                options.Password.RequireDigit = true;
+                options.Password.RequireNonAlphanumeric = false;
+            }).AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddMvc().AddXmlSerializerFormatters();
             services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
+            services.Configure<IdentityOptions>(options=> {
+                options.Password.RequiredLength = 6;
+                options.Password.RequireDigit = true;
+            });
         }
         public Startup(IConfiguration config)
         {
@@ -36,6 +46,7 @@ namespace EmployeeManagementCoreApp
                 app.UseStatusCodePagesWithReExecute("/Error/{0}");
             }
             app.UseStaticFiles();
+            app.UseAuthentication();
             //app.UseMvcWithDefaultRoute();
             app.UseMvc(routes =>
             {
