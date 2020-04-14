@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace EmployeeManagementCoreApp.ViewModels
+{
+    public class EditUserViewModel
+    {
+        public EditUserViewModel()
+        {
+            Claims = new List<string>();
+            Roles = new List<string>();
+        }
+        public string Id { get; set; }
+        [EmailAddress]
+        [Required]
+        public string Email { get; set; }
+        public string City { get; set; }
+        [Required]
+        public string Username { get; set; }
+        public List<string> Roles { get; set; }
+        public List<string> Claims { get; set; }
+    }
+}

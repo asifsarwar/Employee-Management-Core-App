@@ -1,6 +1,7 @@
 ﻿using EmployeeManagementCoreApp.Helper.Database;
 using EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation;
 using EmployeeManagementCoreApp.Models.DbModelsRepo.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -17,16 +18,24 @@ namespace EmployeeManagementCoreApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(_config.GetConnectionString("EmployeeDBConnection")));
-            services.AddIdentity<IdentityUser,IdentityRole>(
+            services.AddIdentity<ApplicationUser,IdentityRole>(
             options => {
+                options.Password.RequiredLength = 4;
                 options.Password.RequireDigit = true;
-                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireNonAlphanumeric = false;               
+                options.Password.RequireUppercase = false;
+                options.Password.RequireLowercase = false;
             }).AddEntityFrameworkStores<ApplicationDbContext>();
-            services.AddMvc().AddXmlSerializerFormatters();
+            services.AddMvc(options=> {
+                var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+            }).AddXmlSerializerFormatters();
             services.AddScoped<IEmployeeRepository, SQLEmployeeRepository>();
             services.Configure<IdentityOptions>(options=> {
-                options.Password.RequiredLength = 6;
+                options.Password.RequiredLength = 4;
                 options.Password.RequireDigit = true;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequireLowercase = false;
             });
         }
         public Startup(IConfiguration config)

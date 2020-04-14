@@ -2,7 +2,8 @@
 using EmployeeManagementCoreApp.Models;
 using EmployeeManagementCoreApp.Models.DbModels;
 using EmployeeManagementCoreApp.Models.DbModelsRepo.Interfaces;
-using EmployeeManagementCoreApp.Models.ViewModels;
+using EmployeeManagementCoreApp.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -11,15 +12,14 @@ using System.Collections.Generic;
 using System.IO;
 namespace EmployeeManagementCoreApp.Controllers
 {
+    [Authorize]
     public class HomeController:Controller
     {
         private IEmployeeRepository _employeeRepository;
         private IHostingEnvironment _hostingEnvironment;
         private readonly ILogger<HomeController> logger;
-
         public HomeController(IEmployeeRepository employeeRepository,IHostingEnvironment hostingEnvironment,ILogger <HomeController> logger)
         {
-            
             _employeeRepository = employeeRepository;
             _hostingEnvironment = hostingEnvironment;
             this.logger = logger;
@@ -33,7 +33,6 @@ namespace EmployeeManagementCoreApp.Controllers
         }
         public ViewResult Details(int? id)
         {
-            _employeeRepository = null;
             DbEmployee employee = _employeeRepository.GetEmployee(id??1);
             if(employee == null)
             {
@@ -114,7 +113,6 @@ namespace EmployeeManagementCoreApp.Controllers
         public ViewResult Edit(int id)
         {
             DbEmployee employee = _employeeRepository.GetEmployee(id);
-
             if (employee != null)
             {
                 EmployeeEditViewModel model = new EmployeeEditViewModel()
@@ -132,7 +130,6 @@ namespace EmployeeManagementCoreApp.Controllers
             {
                 throw new Exception("Error");
             }
-            
         }
         [HttpPost]
         public ActionResult Edit(EmployeeEditViewModel model)
@@ -145,14 +142,12 @@ namespace EmployeeManagementCoreApp.Controllers
                 List<DbEmployeeImages> ImagesList = new List<DbEmployeeImages>();
                 if (model.Photos != null)
                 {
-                   
                     foreach(var photo in model.Photos)
                     {
                         uniqueName = Guid.NewGuid() + photo.FileName;
                         string uploadsFolder = Path.Combine(_hostingEnvironment.WebRootPath, "images");
                         string photoPath = Path.Combine(uploadsFolder, uniqueName);
                         photo.CopyTo(new FileStream(photoPath, FileMode.Create));
-                       
                         BinaryReader reader = new BinaryReader(photo.OpenReadStream());
                         byte[]photoData = reader.ReadBytes((int)photo.Length);
                         if (i == 0)
@@ -196,6 +191,13 @@ namespace EmployeeManagementCoreApp.Controllers
                 return RedirectToAction("Details", new { id = employee.EmployeeID });
             }
             return View();
+        }
+        [HttpGet]
+        [HttpPost]
+        public ActionResult Delete(int id)
+        {
+           DbEmployee employee = _employeeRepository.Delete(id);
+           return RedirectToAction("List", "Home");           
         }
     }
 }

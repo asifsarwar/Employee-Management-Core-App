@@ -9,7 +9,6 @@ namespace EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation
     public class SQLEmployeeRepository : IEmployeeRepository
     {
         private readonly ILogger<SQLEmployeeRepository> logger;
-
         private ApplicationDbContext _context { get; set; }
         public SQLEmployeeRepository(ApplicationDbContext context,ILogger<SQLEmployeeRepository> logger)
         {
@@ -45,7 +44,6 @@ namespace EmployeeManagementCoreApp.Models.DbModelsRepo.Implementation
             logger.LogWarning("Warning log");
             logger.LogError("Error log");
             logger.LogCritical("Critical log");
-
             DbEmployee e = _context.DbEmployee.FirstOrDefault(x => x.EmployeeID == id);
             return e;
         }

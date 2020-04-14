@@ -9,14 +9,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using NLog.Extensions.Logging;
 using NLog.Web;
-
 namespace EmployeeManagementCoreApp
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            
             CreateWebHostBuilder(args).Build().Run();
         }
         public static IWebHostBuilder CreateWebHostBuilder(string[] args)

@@ -1,9 +1,9 @@
-﻿@model EmployeeManagementCoreApp.Models.ViewModels.HomeDetailsViewModel
+﻿@model HomeDetailsViewModel
 @{ 
     ViewBag.Title = "Employee Details";
     var photoPath = "~/images/" + (Model.Employee.PhotoPath ?? "noimage.png");
 }
-
+    <h1>Employee Details</h1>
 <div class="card-deck justify-content-center">
     <div class="card m-3">
         <div class="card-header">

@@ -3,8 +3,9 @@
     ViewBag.Title = "Edit Employee";
     var photoPath = "~/Images/" + (Model.ExistingPhotoPath ?? "noimage.jpg");
 }
+    <h1>Edit Employee</h1>
     <form enctype="multipart/form-data" asp-controller="home" asp-action="edit" method="post" class="mt-3">
-        <input hidden asp-for="EmployeeID" />
+        <input type="hidden" asp-for="EmployeeID" />
         @*<input hidden asp-for="ExistingPhotoPath" />*@
         <div class="form-group row">
             <label asp-for="FirstName" class="col-sm-2 col-form-label"></label>
@@ -53,7 +54,6 @@
                 <button type="submit" class="btn btn-primary">Update</button>
                 <a asp-controller="Home" asp-action="index" class="btn btn-primary">Cancel</a>
             </div>
-           
         </div>
     </form>
 @section Scripts{
@@ -68,7 +68,6 @@
             } else if(fileCount.length == 1) {
                 fileLabel.html(fileCount[0].name);
             }
-
             //var fileName = $(this).val().split("\\").pop();
             //$(this).next('.custom-file-label').html(fileName);
         });

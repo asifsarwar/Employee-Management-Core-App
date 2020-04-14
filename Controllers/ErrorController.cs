@@ -6,9 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-
 namespace EmployeeManagementCoreApp.Controllers
 {
     public class ErrorController : Controller
@@ -18,7 +16,6 @@ namespace EmployeeManagementCoreApp.Controllers
         {
             this.logger = logger;
         }
-        
         [Route("Error/{statusCode}")]
         public IActionResult HttpStatusCodeHandler(int statusCode)
         {

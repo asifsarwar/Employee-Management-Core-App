@@ -2,10 +2,12 @@
 using Microsoft.EntityFrameworkCore;
 using EmployeeManagementCoreApp.Helper.Extentions;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace EmployeeManagementCoreApp.Helper.Database
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
             : base(options)
@@ -22,6 +24,10 @@ namespace EmployeeManagementCoreApp.Helper.Database
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Seed();
+            foreach(var foriegnKey in modelBuilder.Model.GetEntityTypes().SelectMany(x=> x.GetForeignKeys()))
+            {
+                foriegnKey.DeleteBehavior = DeleteBehavior.Restrict;
+            }
         }
         public DbSet<DbEmployee> DbEmployee { get; set; }
         public DbSet<DbCustomer> DbCustomer { get; set; }

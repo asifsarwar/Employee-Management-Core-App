@@ -789,3 +789,1186 @@ Error Number:-1983577829,State:0,Class:20
 2020-03-30 20:02:49.1366 Info Found 88 configuration items
 2020-03-30 20:02:49.2112 Info Configuration initialized.
 2020-03-30 20:02:49.2177 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 22:35:43.2509 Info Message Template Auto Format enabled
+2020-03-30 22:35:43.2658 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 22:35:43.4036 Info Adding target FileTarget(Name=alldata)
+2020-03-30 22:35:43.4036 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 22:35:43.4204 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 22:35:43.4204 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 22:35:43.4568 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 22:35:43.4642 Info Found 88 configuration items
+2020-03-30 22:35:43.5825 Info Configuration initialized.
+2020-03-30 22:35:43.5967 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 22:38:07.3175 Info Message Template Auto Format enabled
+2020-03-30 22:38:07.3302 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 22:38:07.4251 Info Adding target FileTarget(Name=alldata)
+2020-03-30 22:38:07.4251 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 22:38:07.4345 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 22:38:07.4345 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 22:38:07.4718 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 22:38:07.4796 Info Found 88 configuration items
+2020-03-30 22:38:07.5366 Info Configuration initialized.
+2020-03-30 22:38:07.5366 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 22:40:43.7899 Info Message Template Auto Format enabled
+2020-03-30 22:40:43.8094 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 22:40:43.9340 Info Adding target FileTarget(Name=alldata)
+2020-03-30 22:40:43.9340 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 22:40:43.9523 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 22:40:43.9523 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 22:40:43.9891 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 22:40:43.9891 Info Found 88 configuration items
+2020-03-30 22:40:44.1031 Info Configuration initialized.
+2020-03-30 22:40:44.1165 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 22:42:39.3367 Info Message Template Auto Format enabled
+2020-03-30 22:42:39.3632 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 22:42:39.4860 Info Adding target FileTarget(Name=alldata)
+2020-03-30 22:42:39.4860 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 22:42:39.4946 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 22:42:39.4946 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 22:42:39.5322 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 22:42:39.5322 Info Found 88 configuration items
+2020-03-30 22:42:39.6515 Info Configuration initialized.
+2020-03-30 22:42:39.6515 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 22:45:27.7149 Info Message Template Auto Format enabled
+2020-03-30 22:45:27.7149 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 22:45:27.8511 Info Adding target FileTarget(Name=alldata)
+2020-03-30 22:45:27.8511 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 22:45:27.8602 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 22:45:27.8602 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 22:45:27.8962 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 22:45:27.9019 Info Found 88 configuration items
+2020-03-30 22:45:28.0046 Info Configuration initialized.
+2020-03-30 22:45:28.0168 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-30 23:16:27.3773 Info Message Template Auto Format enabled
+2020-03-30 23:16:27.3944 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-30 23:16:27.5348 Info Adding target FileTarget(Name=alldata)
+2020-03-30 23:16:27.5348 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-30 23:16:27.5433 Info Adding target DatabaseTarget(Name=database)
+2020-03-30 23:16:27.5433 Info Adding target NullTarget(Name=blackhole)
+2020-03-30 23:16:27.5780 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-30 23:16:27.5780 Info Found 88 configuration items
+2020-03-30 23:16:27.6928 Info Configuration initialized.
+2020-03-30 23:16:27.7073 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 15:56:21.8178 Info Message Template Auto Format enabled
+2020-03-31 15:56:21.8411 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 15:56:22.0591 Info Adding target FileTarget(Name=alldata)
+2020-03-31 15:56:22.0591 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 15:56:22.0687 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 15:56:22.0687 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 15:56:22.1027 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 15:56:22.1027 Info Found 88 configuration items
+2020-03-31 15:56:22.3746 Info Configuration initialized.
+2020-03-31 15:56:22.4193 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:13:09.4159 Info Message Template Auto Format enabled
+2020-03-31 16:13:09.4308 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:13:09.5723 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:13:09.5723 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:13:09.5933 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:13:09.5933 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:13:09.6422 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:13:09.6491 Info Found 88 configuration items
+2020-03-31 16:13:09.7322 Info Configuration initialized.
+2020-03-31 16:13:09.7322 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:14:46.7893 Info Message Template Auto Format enabled
+2020-03-31 16:14:46.8176 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:14:47.0114 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:14:47.0114 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:14:47.0279 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:14:47.0279 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:14:47.0552 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:14:47.0552 Info Found 88 configuration items
+2020-03-31 16:14:47.1733 Info Configuration initialized.
+2020-03-31 16:14:47.1847 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:15:56.3045 Info Message Template Auto Format enabled
+2020-03-31 16:15:56.3207 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:15:56.4125 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:15:56.4152 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:15:56.4152 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:15:56.4152 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:15:56.4543 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:15:56.4608 Info Found 88 configuration items
+2020-03-31 16:15:56.5170 Info Configuration initialized.
+2020-03-31 16:15:56.5170 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:16:34.7409 Info Message Template Auto Format enabled
+2020-03-31 16:16:34.7527 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:16:34.8458 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:16:34.8458 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:16:34.8563 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:16:34.8563 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:16:34.8898 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:16:34.8898 Info Found 88 configuration items
+2020-03-31 16:16:34.9519 Info Configuration initialized.
+2020-03-31 16:16:34.9519 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:27:00.3568 Info Message Template Auto Format enabled
+2020-03-31 16:27:00.3821 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:27:00.5357 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:27:00.5433 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:27:00.5662 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:27:00.5662 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:27:00.6152 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:27:00.6257 Info Found 88 configuration items
+2020-03-31 16:27:00.7806 Info Configuration initialized.
+2020-03-31 16:27:00.7980 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:28:08.7986 Info Message Template Auto Format enabled
+2020-03-31 16:28:08.8395 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:28:08.9697 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:28:08.9697 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:28:08.9812 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:28:08.9812 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:28:09.0182 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:28:09.0241 Info Found 88 configuration items
+2020-03-31 16:28:09.1236 Info Configuration initialized.
+2020-03-31 16:28:09.1344 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:29:37.9984 Info Message Template Auto Format enabled
+2020-03-31 16:29:38.0123 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:29:38.1456 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:29:38.1520 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:29:38.1636 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:29:38.1636 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:29:38.2214 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:29:38.2317 Info Found 88 configuration items
+2020-03-31 16:29:38.3031 Info Configuration initialized.
+2020-03-31 16:29:38.3031 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:30:07.2731 Info Message Template Auto Format enabled
+2020-03-31 16:30:07.2731 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:30:07.3969 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:30:07.3969 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:30:07.4142 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:30:07.4142 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:30:07.4431 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:30:07.4519 Info Found 88 configuration items
+2020-03-31 16:30:07.5144 Info Configuration initialized.
+2020-03-31 16:30:07.5144 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:30:43.7268 Info Message Template Auto Format enabled
+2020-03-31 16:30:43.7471 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:30:43.9839 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:30:43.9839 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:30:43.9939 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:30:43.9939 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:30:44.0291 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:30:44.0291 Info Found 88 configuration items
+2020-03-31 16:30:44.1396 Info Configuration initialized.
+2020-03-31 16:30:44.1506 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:31:49.2633 Info Message Template Auto Format enabled
+2020-03-31 16:31:49.2794 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:31:49.4100 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:31:49.4169 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:31:49.4304 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:31:49.4304 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:31:49.4568 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:31:49.4639 Info Found 88 configuration items
+2020-03-31 16:31:49.5886 Info Configuration initialized.
+2020-03-31 16:31:49.6008 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:42:18.7692 Info Message Template Auto Format enabled
+2020-03-31 16:42:18.7865 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:42:18.9928 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:42:18.9928 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:42:19.0241 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:42:19.0241 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:42:19.0921 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:42:19.1063 Info Found 88 configuration items
+2020-03-31 16:42:19.2531 Info Configuration initialized.
+2020-03-31 16:42:19.2717 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:47:09.0957 Info Message Template Auto Format enabled
+2020-03-31 16:47:09.1118 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:47:09.2278 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:47:09.2278 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:47:09.2462 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:47:09.2462 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:47:09.2800 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:47:09.2894 Info Found 88 configuration items
+2020-03-31 16:47:09.3640 Info Configuration initialized.
+2020-03-31 16:47:09.3732 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 16:47:39.4867 Info Message Template Auto Format enabled
+2020-03-31 16:47:39.5010 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 16:47:39.6228 Info Adding target FileTarget(Name=alldata)
+2020-03-31 16:47:39.6228 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 16:47:39.6370 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 16:47:39.6370 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 16:47:39.6660 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 16:47:39.6660 Info Found 88 configuration items
+2020-03-31 16:47:39.7816 Info Configuration initialized.
+2020-03-31 16:47:39.7952 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:00:18.0103 Info Message Template Auto Format enabled
+2020-03-31 17:00:18.0309 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:00:18.1802 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:00:18.1802 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:00:18.2036 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:00:18.2036 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:00:18.2408 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:00:18.2471 Info Found 88 configuration items
+2020-03-31 17:00:18.3557 Info Configuration initialized.
+2020-03-31 17:00:18.3694 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:02:27.9356 Info Message Template Auto Format enabled
+2020-03-31 17:02:27.9475 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:02:28.0676 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:02:28.0730 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:02:28.0864 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:02:28.0864 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:02:28.1235 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:02:28.1235 Info Found 88 configuration items
+2020-03-31 17:02:28.2309 Info Configuration initialized.
+2020-03-31 17:02:28.2432 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:18:54.5385 Info Message Template Auto Format enabled
+2020-03-31 17:18:54.5385 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:18:54.6913 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:18:54.6944 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:18:54.6944 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:18:54.6944 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:18:54.7372 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:18:54.7440 Info Found 88 configuration items
+2020-03-31 17:18:54.8570 Info Configuration initialized.
+2020-03-31 17:18:54.8692 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:19:56.5718 Info Message Template Auto Format enabled
+2020-03-31 17:19:56.5947 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:19:56.7759 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:19:56.7759 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:19:56.8058 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:19:56.8058 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:19:56.8630 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:19:56.8744 Info Found 88 configuration items
+2020-03-31 17:19:57.0800 Info Configuration initialized.
+2020-03-31 17:19:57.0975 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:22:28.7896 Info Message Template Auto Format enabled
+2020-03-31 17:22:28.7896 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:22:28.9669 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:22:28.9669 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:22:28.9936 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:22:28.9936 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:22:29.0304 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:22:29.0429 Info Found 88 configuration items
+2020-03-31 17:22:29.1202 Info Configuration initialized.
+2020-03-31 17:22:29.1202 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:25:55.3526 Info Message Template Auto Format enabled
+2020-03-31 17:25:55.3782 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:25:55.6103 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:25:55.6103 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:25:55.6200 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:25:55.6200 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:25:55.6551 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:25:55.6551 Info Found 88 configuration items
+2020-03-31 17:25:55.7751 Info Configuration initialized.
+2020-03-31 17:25:55.7751 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:27:47.9173 Info Message Template Auto Format enabled
+2020-03-31 17:27:47.9423 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:27:48.1743 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:27:48.1829 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:27:48.2059 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:27:48.2059 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:27:48.2386 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:27:48.2452 Info Found 88 configuration items
+2020-03-31 17:27:48.3446 Info Configuration initialized.
+2020-03-31 17:27:48.3584 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:47:28.2517 Info Message Template Auto Format enabled
+2020-03-31 17:47:28.2873 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:47:28.5481 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:47:28.5481 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:47:28.5567 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:47:28.5567 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:47:28.5946 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:47:28.6048 Info Found 88 configuration items
+2020-03-31 17:47:28.7275 Info Configuration initialized.
+2020-03-31 17:47:28.7414 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 17:50:22.3758 Info Message Template Auto Format enabled
+2020-03-31 17:50:22.4378 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 17:50:22.6540 Info Adding target FileTarget(Name=alldata)
+2020-03-31 17:50:22.6540 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 17:50:22.6683 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 17:50:22.6792 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 17:50:22.7251 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 17:50:22.7331 Info Found 88 configuration items
+2020-03-31 17:50:22.8403 Info Configuration initialized.
+2020-03-31 17:50:22.8522 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:10:01.6320 Info Message Template Auto Format enabled
+2020-03-31 18:10:01.6458 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:10:01.7567 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:10:01.7626 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:10:01.7762 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:10:01.7762 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:10:01.8193 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:10:01.8193 Info Found 88 configuration items
+2020-03-31 18:10:01.9046 Info Configuration initialized.
+2020-03-31 18:10:01.9046 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:11:39.9139 Info Message Template Auto Format enabled
+2020-03-31 18:11:39.9325 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:11:40.0236 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:11:40.0236 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:11:40.0377 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:11:40.0377 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:11:40.0799 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:11:40.0872 Info Found 88 configuration items
+2020-03-31 18:11:40.1452 Info Configuration initialized.
+2020-03-31 18:11:40.1519 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:13:10.3196 Info Message Template Auto Format enabled
+2020-03-31 18:13:10.3196 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:13:10.4562 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:13:10.4618 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:13:10.4777 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:13:10.4777 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:13:10.5109 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:13:10.5109 Info Found 88 configuration items
+2020-03-31 18:13:10.6196 Info Configuration initialized.
+2020-03-31 18:13:10.6320 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:14:45.6319 Info Message Template Auto Format enabled
+2020-03-31 18:14:45.6455 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:14:45.7591 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:14:45.7591 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:14:45.7787 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:14:45.7787 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:14:45.8169 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:14:45.8235 Info Found 88 configuration items
+2020-03-31 18:14:45.9062 Info Configuration initialized.
+2020-03-31 18:14:45.9062 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:14:46.5730 Info AppDomain Shutting down. Logger closing...
+2020-03-31 18:14:46.5940 Info Logger has been shut down.
+2020-03-31 18:16:53.2513 Info Message Template Auto Format enabled
+2020-03-31 18:16:53.2637 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:16:53.3493 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:16:53.3525 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:16:53.3525 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:16:53.3525 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:16:53.3956 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:16:53.4018 Info Found 88 configuration items
+2020-03-31 18:16:53.4548 Info Configuration initialized.
+2020-03-31 18:16:53.4548 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:16:53.8882 Info AppDomain Shutting down. Logger closing...
+2020-03-31 18:16:53.9171 Info Logger has been shut down.
+2020-03-31 18:17:01.4711 Info Message Template Auto Format enabled
+2020-03-31 18:17:01.4845 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:17:01.5875 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:17:01.5875 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:17:01.6025 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:17:01.6025 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:17:01.6410 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:17:01.6410 Info Found 88 configuration items
+2020-03-31 18:17:01.7163 Info Configuration initialized.
+2020-03-31 18:17:01.7163 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:17:02.4347 Info AppDomain Shutting down. Logger closing...
+2020-03-31 18:17:02.4577 Info Logger has been shut down.
+2020-03-31 18:17:14.6136 Info Message Template Auto Format enabled
+2020-03-31 18:17:14.6265 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:17:14.7188 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:17:14.7188 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:17:14.7288 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:17:14.7288 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:17:14.7642 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:17:14.7642 Info Found 88 configuration items
+2020-03-31 18:17:14.8252 Info Configuration initialized.
+2020-03-31 18:17:14.8252 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:17:17.2066 Info AppDomain Shutting down. Logger closing...
+2020-03-31 18:17:17.2384 Info Logger has been shut down.
+2020-03-31 18:17:29.3180 Info Message Template Auto Format enabled
+2020-03-31 18:17:29.3347 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:17:29.4665 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:17:29.4774 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:17:29.4958 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:17:29.4958 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:17:29.5354 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:17:29.5428 Info Found 88 configuration items
+2020-03-31 18:17:29.6408 Info Configuration initialized.
+2020-03-31 18:17:29.6519 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:19:53.4869 Info Message Template Auto Format enabled
+2020-03-31 18:19:53.4978 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:19:53.6366 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:19:53.6366 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:19:53.6535 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:19:53.6535 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:19:53.6815 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:19:53.6815 Info Found 88 configuration items
+2020-03-31 18:19:53.7896 Info Configuration initialized.
+2020-03-31 18:19:53.7896 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:22:58.5167 Info Message Template Auto Format enabled
+2020-03-31 18:22:58.5306 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:22:58.7507 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:22:58.7507 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:22:58.7623 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:22:58.7623 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:22:58.8032 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:22:58.8032 Info Found 88 configuration items
+2020-03-31 18:22:58.9096 Info Configuration initialized.
+2020-03-31 18:22:58.9243 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 18:48:50.3227 Info Message Template Auto Format enabled
+2020-03-31 18:48:50.3227 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 18:48:50.4762 Info Adding target FileTarget(Name=alldata)
+2020-03-31 18:48:50.4762 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 18:48:50.4974 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 18:48:50.4974 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 18:48:50.5265 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 18:48:50.5265 Info Found 88 configuration items
+2020-03-31 18:48:50.6528 Info Configuration initialized.
+2020-03-31 18:48:50.6650 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 19:18:57.2171 Info Message Template Auto Format enabled
+2020-03-31 19:18:57.2311 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 19:18:57.4929 Info Adding target FileTarget(Name=alldata)
+2020-03-31 19:18:57.4929 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 19:18:57.5062 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 19:18:57.5062 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 19:18:57.5558 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 19:18:57.5558 Info Found 88 configuration items
+2020-03-31 19:18:57.8170 Info Configuration initialized.
+2020-03-31 19:18:57.8529 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 19:58:29.6117 Info Message Template Auto Format enabled
+2020-03-31 19:58:29.6369 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 19:58:29.8436 Info Adding target FileTarget(Name=alldata)
+2020-03-31 19:58:29.8534 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 19:58:29.8762 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 19:58:29.8762 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 19:58:29.9371 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 19:58:29.9473 Info Found 88 configuration items
+2020-03-31 19:58:30.1438 Info Configuration initialized.
+2020-03-31 19:58:30.1625 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:04:31.0353 Info Message Template Auto Format enabled
+2020-03-31 20:04:31.0467 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:04:31.1949 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:04:31.1949 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:04:31.2140 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:04:31.2140 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:04:31.2458 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:04:31.2458 Info Found 88 configuration items
+2020-03-31 20:04:31.3662 Info Configuration initialized.
+2020-03-31 20:04:31.3662 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:05:37.6668 Info Message Template Auto Format enabled
+2020-03-31 20:05:37.6800 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:05:37.8270 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:05:37.8270 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:05:37.8413 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:05:37.8413 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:05:37.8771 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:05:37.8843 Info Found 88 configuration items
+2020-03-31 20:05:37.9882 Info Configuration initialized.
+2020-03-31 20:05:38.0060 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:06:19.3488 Info Message Template Auto Format enabled
+2020-03-31 20:06:19.3711 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:06:19.4836 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:06:19.4836 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:06:19.5067 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:06:19.5067 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:06:19.5501 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:06:19.5563 Info Found 88 configuration items
+2020-03-31 20:06:19.6151 Info Configuration initialized.
+2020-03-31 20:06:19.6216 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:07:05.9128 Info Message Template Auto Format enabled
+2020-03-31 20:07:05.9320 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:07:06.0953 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:07:06.1036 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:07:06.1219 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:07:06.1219 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:07:06.1641 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:07:06.1641 Info Found 88 configuration items
+2020-03-31 20:07:06.3188 Info Configuration initialized.
+2020-03-31 20:07:06.3363 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:08:05.4817 Info Message Template Auto Format enabled
+2020-03-31 20:08:05.4971 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:08:05.6279 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:08:05.6279 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:08:05.6637 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:08:05.6637 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:08:05.7120 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:08:05.7120 Info Found 88 configuration items
+2020-03-31 20:08:05.8329 Info Configuration initialized.
+2020-03-31 20:08:05.8420 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:10:54.9185 Info Message Template Auto Format enabled
+2020-03-31 20:10:54.9319 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:11:00.0031 Info Message Template Auto Format enabled
+2020-03-31 20:11:00.0264 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:11:00.1596 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:11:00.1627 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:11:00.1788 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:11:00.1788 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:11:00.2221 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:11:00.2290 Info Found 88 configuration items
+2020-03-31 20:11:00.2863 Info Configuration initialized.
+2020-03-31 20:11:00.2913 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:28:27.3568 Info Message Template Auto Format enabled
+2020-03-31 20:28:27.3705 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:28:27.5539 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:28:27.5539 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:28:27.5767 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:28:27.5767 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:28:27.6192 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:28:27.6192 Info Found 88 configuration items
+2020-03-31 20:28:27.7904 Info Configuration initialized.
+2020-03-31 20:28:27.8046 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:29:34.2468 Info Message Template Auto Format enabled
+2020-03-31 20:29:34.2599 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:29:34.3650 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:29:34.3686 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:29:34.3839 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:29:34.3839 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:29:34.4199 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:29:34.4199 Info Found 88 configuration items
+2020-03-31 20:29:34.4889 Info Configuration initialized.
+2020-03-31 20:29:34.4942 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:35:19.4377 Info Message Template Auto Format enabled
+2020-03-31 20:35:19.4531 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:35:19.5571 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:35:19.5571 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:35:19.5696 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:35:19.5696 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:35:19.6096 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:35:19.6172 Info Found 88 configuration items
+2020-03-31 20:35:19.6759 Info Configuration initialized.
+2020-03-31 20:35:19.6838 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 20:49:40.8776 Info Message Template Auto Format enabled
+2020-03-31 20:49:40.8927 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 20:49:41.0191 Info Adding target FileTarget(Name=alldata)
+2020-03-31 20:49:41.0230 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 20:49:41.0381 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 20:49:41.0381 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 20:49:41.0713 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 20:49:41.0713 Info Found 88 configuration items
+2020-03-31 20:49:41.1870 Info Configuration initialized.
+2020-03-31 20:49:41.1980 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 21:00:01.1493 Info Message Template Auto Format enabled
+2020-03-31 21:00:01.1693 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 21:00:01.5400 Info Adding target FileTarget(Name=alldata)
+2020-03-31 21:00:01.5400 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 21:00:01.5900 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 21:00:01.5900 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 21:00:01.6580 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 21:00:01.6720 Info Found 88 configuration items
+2020-03-31 21:00:01.8500 Info Configuration initialized.
+2020-03-31 21:00:01.8677 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 21:01:08.3931 Info Message Template Auto Format enabled
+2020-03-31 21:01:08.4102 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 21:01:08.5287 Info Adding target FileTarget(Name=alldata)
+2020-03-31 21:01:08.5287 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 21:01:08.5396 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 21:01:08.5396 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 21:01:08.6011 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 21:01:08.6011 Info Found 88 configuration items
+2020-03-31 21:01:08.6768 Info Configuration initialized.
+2020-03-31 21:01:08.6840 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 21:03:06.2937 Info Message Template Auto Format enabled
+2020-03-31 21:03:06.3077 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 21:03:06.4522 Info Adding target FileTarget(Name=alldata)
+2020-03-31 21:03:06.4522 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 21:03:06.4763 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 21:03:06.4763 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 21:03:06.5272 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 21:03:06.5395 Info Found 88 configuration items
+2020-03-31 21:03:06.6501 Info Configuration initialized.
+2020-03-31 21:03:06.6501 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 21:04:12.5079 Info Message Template Auto Format enabled
+2020-03-31 21:04:12.5278 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 21:04:12.8149 Info Adding target FileTarget(Name=alldata)
+2020-03-31 21:04:12.8149 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 21:04:12.8254 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 21:04:12.8254 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 21:04:12.8726 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 21:04:12.8726 Info Found 88 configuration items
+2020-03-31 21:04:12.9853 Info Configuration initialized.
+2020-03-31 21:04:12.9965 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:02:13.4699 Info Message Template Auto Format enabled
+2020-03-31 22:02:13.4933 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:02:13.7343 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:02:13.7343 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:02:13.7466 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:02:13.7466 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:02:13.8050 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:02:13.8050 Info Found 88 configuration items
+2020-03-31 22:02:13.9933 Info Configuration initialized.
+2020-03-31 22:12:51.9101 Info Message Template Auto Format enabled
+2020-03-31 22:12:51.9273 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:12:52.0623 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:12:52.0623 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:12:52.0770 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:12:52.0770 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:12:52.1143 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:12:52.1212 Info Found 88 configuration items
+2020-03-31 22:12:52.2256 Info Configuration initialized.
+2020-03-31 22:12:52.2256 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:14:46.6275 Info Message Template Auto Format enabled
+2020-03-31 22:14:46.6470 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:14:46.8002 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:14:46.8002 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:14:46.8102 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:14:46.8102 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:14:46.8505 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:14:46.8505 Info Found 88 configuration items
+2020-03-31 22:14:46.9789 Info Configuration initialized.
+2020-03-31 22:14:46.9929 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:16:55.3164 Info Message Template Auto Format enabled
+2020-03-31 22:16:55.3368 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:16:55.4898 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:16:55.4933 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:16:55.5142 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:16:55.5142 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:16:55.5638 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:16:55.5736 Info Found 88 configuration items
+2020-03-31 22:16:55.6744 Info Configuration initialized.
+2020-03-31 22:16:55.6822 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:19:04.7162 Info Message Template Auto Format enabled
+2020-03-31 22:19:04.7438 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:19:04.9427 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:19:04.9462 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:19:04.9631 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:19:04.9631 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:19:05.0076 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:19:05.0076 Info Found 88 configuration items
+2020-03-31 22:19:05.1137 Info Configuration initialized.
+2020-03-31 22:19:05.1235 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:24:41.4104 Info Message Template Auto Format enabled
+2020-03-31 22:24:41.4222 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:24:41.5557 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:24:41.5557 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:24:41.5703 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:24:41.5703 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:24:41.6097 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:24:41.6173 Info Found 88 configuration items
+2020-03-31 22:24:41.7319 Info Configuration initialized.
+2020-03-31 22:24:41.7428 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 22:55:25.8120 Info Message Template Auto Format enabled
+2020-03-31 22:55:25.8247 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 22:55:25.9862 Info Adding target FileTarget(Name=alldata)
+2020-03-31 22:55:25.9862 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 22:55:25.9959 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 22:55:25.9959 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 22:55:26.0354 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 22:55:26.0432 Info Found 88 configuration items
+2020-03-31 22:55:26.1601 Info Configuration initialized.
+2020-03-31 22:55:26.1724 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 23:02:38.8588 Info Message Template Auto Format enabled
+2020-03-31 23:02:38.8741 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 23:02:39.0377 Info Adding target FileTarget(Name=alldata)
+2020-03-31 23:02:39.0377 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 23:02:39.0543 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 23:02:39.0543 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 23:02:39.0861 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 23:02:39.0861 Info Found 88 configuration items
+2020-03-31 23:02:39.2174 Info Configuration initialized.
+2020-03-31 23:02:39.2332 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 23:04:18.6388 Info Message Template Auto Format enabled
+2020-03-31 23:04:18.6554 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 23:04:18.8252 Info Adding target FileTarget(Name=alldata)
+2020-03-31 23:04:18.8252 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 23:04:18.8362 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 23:04:18.8362 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 23:04:18.8876 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 23:04:18.8876 Info Found 88 configuration items
+2020-03-31 23:04:19.0074 Info Configuration initialized.
+2020-03-31 23:04:19.0074 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 23:05:07.5367 Info Message Template Auto Format enabled
+2020-03-31 23:05:07.5494 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 23:05:07.6763 Info Adding target FileTarget(Name=alldata)
+2020-03-31 23:05:07.6792 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 23:05:07.6792 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 23:05:07.6951 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 23:05:07.7421 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 23:05:07.7421 Info Found 88 configuration items
+2020-03-31 23:05:07.8437 Info Configuration initialized.
+2020-03-31 23:05:07.8515 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 23:05:57.6762 Info Message Template Auto Format enabled
+2020-03-31 23:05:57.6905 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 23:05:57.8207 Info Adding target FileTarget(Name=alldata)
+2020-03-31 23:05:57.8207 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 23:05:57.8527 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 23:05:57.8527 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 23:05:57.8811 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 23:05:57.8887 Info Found 88 configuration items
+2020-03-31 23:05:57.9907 Info Configuration initialized.
+2020-03-31 23:05:58.0043 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-03-31 23:57:07.4334 Info Message Template Auto Format enabled
+2020-03-31 23:57:07.4474 Info Loading assembly: NLog.Web.AspNetCore
+2020-03-31 23:57:07.6980 Info Adding target FileTarget(Name=alldata)
+2020-03-31 23:57:07.6980 Info Adding target FileTarget(Name=otherFile-web)
+2020-03-31 23:57:07.7109 Info Adding target DatabaseTarget(Name=database)
+2020-03-31 23:57:07.7109 Info Adding target NullTarget(Name=blackhole)
+2020-03-31 23:57:07.7541 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-03-31 23:57:07.7615 Info Found 88 configuration items
+2020-03-31 23:57:08.0275 Info Configuration initialized.
+2020-03-31 23:57:08.0612 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:06:52.4995 Info Message Template Auto Format enabled
+2020-04-01 00:06:52.5116 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:06:52.6381 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:06:52.6381 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:06:52.6504 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:06:52.6504 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:06:52.6851 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:06:52.6851 Info Found 88 configuration items
+2020-04-01 00:06:52.7951 Info Configuration initialized.
+2020-04-01 00:06:52.8149 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:07:49.5568 Info Message Template Auto Format enabled
+2020-04-01 00:07:49.5701 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:07:49.7198 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:07:49.7198 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:07:49.7333 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:07:49.7333 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:07:49.7712 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:07:49.7784 Info Found 88 configuration items
+2020-04-01 00:07:49.8849 Info Configuration initialized.
+2020-04-01 00:07:49.8998 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:10:51.5217 Info Message Template Auto Format enabled
+2020-04-01 00:10:51.5426 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:10:51.7686 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:10:51.7686 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:10:51.7781 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:10:51.7887 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:10:51.8321 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:10:51.8415 Info Found 88 configuration items
+2020-04-01 00:10:51.9565 Info Configuration initialized.
+2020-04-01 00:10:51.9703 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:16:11.3227 Info Message Template Auto Format enabled
+2020-04-01 00:16:11.3371 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:16:11.4775 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:16:11.4775 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:16:11.4968 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:16:11.4968 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:16:11.5304 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:16:11.5378 Info Found 88 configuration items
+2020-04-01 00:16:11.6609 Info Configuration initialized.
+2020-04-01 00:16:11.6740 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:18:11.4857 Info Message Template Auto Format enabled
+2020-04-01 00:18:11.5143 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:18:11.7578 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:18:11.7578 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:18:11.7578 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:18:11.7732 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:18:11.8013 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:18:11.8079 Info Found 88 configuration items
+2020-04-01 00:18:11.9055 Info Configuration initialized.
+2020-04-01 00:18:11.9165 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:29:11.8541 Info Message Template Auto Format enabled
+2020-04-01 00:29:11.8664 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:29:11.9796 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:29:11.9796 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:29:11.9913 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:29:11.9913 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:29:12.0300 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:29:12.0300 Info Found 88 configuration items
+2020-04-01 00:29:12.0964 Info Configuration initialized.
+2020-04-01 00:29:12.1021 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:30:32.4224 Info Message Template Auto Format enabled
+2020-04-01 00:30:32.4370 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:30:32.5430 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:30:32.5430 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:30:32.5615 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:30:32.5615 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:30:32.5974 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:30:32.6036 Info Found 88 configuration items
+2020-04-01 00:30:32.6616 Info Configuration initialized.
+2020-04-01 00:30:32.6677 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:33:00.6598 Info Message Template Auto Format enabled
+2020-04-01 00:33:00.6784 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:33:00.8046 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:33:00.8046 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:33:00.8188 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:33:00.8188 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:33:00.8746 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:33:00.8869 Info Found 88 configuration items
+2020-04-01 00:33:00.9858 Info Configuration initialized.
+2020-04-01 00:33:00.9962 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:34:41.9407 Info Message Template Auto Format enabled
+2020-04-01 00:34:41.9531 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:34:42.0569 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:34:42.0569 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:34:42.0729 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:34:42.0729 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:34:42.1065 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:34:42.1065 Info Found 88 configuration items
+2020-04-01 00:34:42.1750 Info Configuration initialized.
+2020-04-01 00:34:42.1804 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:35:18.5008 Info Message Template Auto Format enabled
+2020-04-01 00:35:18.5403 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:35:18.7833 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:35:18.7833 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:35:18.8072 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:35:18.8072 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:35:18.8449 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:35:18.8512 Info Found 88 configuration items
+2020-04-01 00:35:18.9563 Info Configuration initialized.
+2020-04-01 00:35:18.9690 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:38:09.4728 Info Message Template Auto Format enabled
+2020-04-01 00:38:09.4877 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:38:09.6286 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:38:09.6335 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:38:09.6485 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:38:09.6485 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:38:09.6777 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:38:09.6862 Info Found 88 configuration items
+2020-04-01 00:38:09.7940 Info Configuration initialized.
+2020-04-01 00:38:09.8066 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 00:42:09.9179 Info Message Template Auto Format enabled
+2020-04-01 00:42:09.9358 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 00:42:10.0662 Info Adding target FileTarget(Name=alldata)
+2020-04-01 00:42:10.0766 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 00:42:10.0907 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 00:42:10.0907 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 00:42:10.1194 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 00:42:10.1194 Info Found 88 configuration items
+2020-04-01 00:42:10.2380 Info Configuration initialized.
+2020-04-01 00:42:10.2525 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 01:07:29.3588 Info Message Template Auto Format enabled
+2020-04-01 01:07:29.3871 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 01:07:29.6881 Info Adding target FileTarget(Name=alldata)
+2020-04-01 01:07:29.6881 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 01:07:29.7070 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 01:07:29.7070 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 01:07:29.7454 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 01:07:29.7454 Info Found 88 configuration items
+2020-04-01 01:07:30.1139 Info Configuration initialized.
+2020-04-01 01:07:30.1526 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 01:49:51.4441 Info Message Template Auto Format enabled
+2020-04-01 01:49:51.4811 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 01:49:51.6370 Info Adding target FileTarget(Name=alldata)
+2020-04-01 01:49:51.6370 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 01:49:51.6535 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 01:49:51.6535 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 01:49:51.7024 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 01:49:51.7024 Info Found 88 configuration items
+2020-04-01 01:49:51.8157 Info Configuration initialized.
+2020-04-01 01:49:51.8290 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 02:17:13.9240 Info Message Template Auto Format enabled
+2020-04-01 02:17:13.9384 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 02:17:14.0486 Info Adding target FileTarget(Name=alldata)
+2020-04-01 02:17:14.0486 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 02:17:14.0598 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 02:17:14.0598 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 02:17:14.0982 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 02:17:14.0982 Info Found 88 configuration items
+2020-04-01 02:17:14.1652 Info Configuration initialized.
+2020-04-01 02:17:14.1706 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 02:20:14.6085 Info Message Template Auto Format enabled
+2020-04-01 02:20:14.6252 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 02:20:14.7584 Info Adding target FileTarget(Name=alldata)
+2020-04-01 02:20:14.7584 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 02:20:14.7693 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 02:20:14.7693 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 02:20:14.8019 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 02:20:14.8019 Info Found 88 configuration items
+2020-04-01 02:20:14.9107 Info Configuration initialized.
+2020-04-01 02:20:14.9223 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 02:22:19.1238 Info Message Template Auto Format enabled
+2020-04-01 02:22:19.1450 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 02:22:19.2610 Info Adding target FileTarget(Name=alldata)
+2020-04-01 02:22:19.2642 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 02:22:19.2806 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 02:22:19.2806 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 02:22:19.3223 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 02:22:19.3488 Info Found 88 configuration items
+2020-04-01 02:22:19.4122 Info Configuration initialized.
+2020-04-01 02:22:19.4122 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 02:32:38.7358 Info Message Template Auto Format enabled
+2020-04-01 02:32:38.7358 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 02:32:38.8639 Info Adding target FileTarget(Name=alldata)
+2020-04-01 02:32:38.8639 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 02:32:38.8799 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 02:32:38.8861 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 02:32:38.9158 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 02:32:38.9218 Info Found 88 configuration items
+2020-04-01 02:32:39.0299 Info Configuration initialized.
+2020-04-01 02:32:39.0299 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 02:41:54.3468 Info Message Template Auto Format enabled
+2020-04-01 02:41:54.3628 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 02:41:54.5185 Info Adding target FileTarget(Name=alldata)
+2020-04-01 02:41:54.5185 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 02:41:54.5328 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 02:41:54.5328 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 02:41:54.5602 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 02:41:54.5602 Info Found 88 configuration items
+2020-04-01 02:41:54.6698 Info Configuration initialized.
+2020-04-01 02:41:54.6819 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 03:02:52.1557 Info Message Template Auto Format enabled
+2020-04-01 03:02:52.1687 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 03:02:52.2646 Info Adding target FileTarget(Name=alldata)
+2020-04-01 03:02:52.2646 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 03:02:52.2826 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 03:02:52.2826 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 03:02:52.3131 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 03:02:52.3131 Info Found 88 configuration items
+2020-04-01 03:02:52.3736 Info Configuration initialized.
+2020-04-01 03:02:52.3736 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 03:04:00.1366 Info Message Template Auto Format enabled
+2020-04-01 03:04:00.1515 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 03:04:00.3155 Info Adding target FileTarget(Name=alldata)
+2020-04-01 03:04:00.3155 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 03:04:00.3262 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 03:04:00.3262 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 03:04:00.3659 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 03:04:00.3739 Info Found 88 configuration items
+2020-04-01 03:04:00.5088 Info Configuration initialized.
+2020-04-01 03:04:00.5285 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 03:06:31.0693 Info Message Template Auto Format enabled
+2020-04-01 03:06:31.0861 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 03:06:31.2250 Info Adding target FileTarget(Name=alldata)
+2020-04-01 03:06:31.2307 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 03:06:31.2307 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 03:06:31.2307 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 03:06:31.2707 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 03:06:31.2771 Info Found 88 configuration items
+2020-04-01 03:06:31.3836 Info Configuration initialized.
+2020-04-01 03:06:31.3988 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 17:31:17.8117 Info Message Template Auto Format enabled
+2020-04-01 17:31:17.8437 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 17:31:18.0753 Info Adding target FileTarget(Name=alldata)
+2020-04-01 17:31:18.0753 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 17:31:18.0882 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 17:31:18.0882 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 17:31:18.1315 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 17:31:18.1419 Info Found 88 configuration items
+2020-04-01 17:31:18.4445 Info Configuration initialized.
+2020-04-01 17:31:18.4851 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 17:42:27.6726 Info Message Template Auto Format enabled
+2020-04-01 17:42:27.6847 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 17:42:27.8005 Info Adding target FileTarget(Name=alldata)
+2020-04-01 17:42:27.8005 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 17:42:27.8129 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 17:42:27.8129 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 17:42:27.8657 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 17:42:27.8743 Info Found 88 configuration items
+2020-04-01 17:42:27.9596 Info Configuration initialized.
+2020-04-01 17:42:27.9689 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 17:43:32.4033 Info Message Template Auto Format enabled
+2020-04-01 17:43:32.4033 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 17:43:32.5229 Info Adding target FileTarget(Name=alldata)
+2020-04-01 17:43:32.5260 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 17:43:32.5476 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 17:43:32.5476 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 17:43:32.5802 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 17:43:32.5869 Info Found 88 configuration items
+2020-04-01 17:43:32.6860 Info Configuration initialized.
+2020-04-01 17:43:32.6967 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 18:06:27.1703 Info Message Template Auto Format enabled
+2020-04-01 18:06:27.1828 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 18:06:27.2974 Info Adding target FileTarget(Name=alldata)
+2020-04-01 18:06:27.2974 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 18:06:27.3092 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 18:06:27.3092 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 18:06:27.3536 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 18:06:27.3536 Info Found 88 configuration items
+2020-04-01 18:06:27.4547 Info Configuration initialized.
+2020-04-01 18:06:27.4670 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 18:48:05.1962 Info Message Template Auto Format enabled
+2020-04-01 18:48:05.1962 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 18:48:05.3550 Info Adding target FileTarget(Name=alldata)
+2020-04-01 18:48:05.3550 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 18:48:05.3681 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 18:48:05.3681 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 18:48:05.4103 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 18:48:05.4192 Info Found 88 configuration items
+2020-04-01 18:48:05.5383 Info Configuration initialized.
+2020-04-01 18:48:05.5507 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 18:53:15.9196 Info Message Template Auto Format enabled
+2020-04-01 18:53:15.9311 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 18:53:16.0318 Info Adding target FileTarget(Name=alldata)
+2020-04-01 18:53:16.0318 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 18:53:16.0416 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 18:53:16.0559 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 18:53:16.0908 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 18:53:16.0908 Info Found 88 configuration items
+2020-04-01 18:53:16.1556 Info Configuration initialized.
+2020-04-01 18:53:16.1556 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 18:54:32.0839 Info Message Template Auto Format enabled
+2020-04-01 18:54:32.1010 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 18:54:32.3759 Info Adding target FileTarget(Name=alldata)
+2020-04-01 18:54:32.3759 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 18:54:32.3841 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 18:54:32.3841 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 18:54:32.4205 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 18:54:32.4205 Info Found 88 configuration items
+2020-04-01 18:54:32.5227 Info Configuration initialized.
+2020-04-01 18:54:32.5341 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 18:55:24.6977 Info Message Template Auto Format enabled
+2020-04-01 18:55:24.6977 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 18:55:24.8235 Info Adding target FileTarget(Name=alldata)
+2020-04-01 18:55:24.8235 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 18:55:24.8404 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 18:55:24.8404 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 18:55:24.8742 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 18:55:24.8742 Info Found 88 configuration items
+2020-04-01 18:55:24.9761 Info Configuration initialized.
+2020-04-01 18:55:24.9868 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 19:04:32.4310 Info Message Template Auto Format enabled
+2020-04-01 19:04:32.4573 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 19:04:32.6428 Info Adding target FileTarget(Name=alldata)
+2020-04-01 19:04:32.6428 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 19:04:32.6515 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 19:04:32.6515 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 19:04:32.6937 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 19:04:32.7010 Info Found 88 configuration items
+2020-04-01 19:04:32.8114 Info Configuration initialized.
+2020-04-01 19:04:32.8226 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 19:12:49.5180 Info Message Template Auto Format enabled
+2020-04-01 19:12:49.5348 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 19:12:49.6679 Info Adding target FileTarget(Name=alldata)
+2020-04-01 19:12:49.6679 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 19:12:49.6833 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 19:12:49.6833 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 19:12:49.7309 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 19:12:49.7309 Info Found 88 configuration items
+2020-04-01 19:12:49.7967 Info Configuration initialized.
+2020-04-01 19:12:49.7967 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 19:15:37.0471 Info Message Template Auto Format enabled
+2020-04-01 19:15:37.0620 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 19:15:37.1940 Info Adding target FileTarget(Name=alldata)
+2020-04-01 19:15:37.1983 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 19:15:37.2131 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 19:15:37.2131 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 19:15:37.2495 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 19:15:37.2495 Info Found 88 configuration items
+2020-04-01 19:15:37.3503 Info Configuration initialized.
+2020-04-01 19:15:37.3627 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 19:58:43.9445 Info Message Template Auto Format enabled
+2020-04-01 19:58:43.9549 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 19:58:44.1518 Info Adding target FileTarget(Name=alldata)
+2020-04-01 19:58:44.1518 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 19:58:44.1695 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 19:58:44.1695 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 19:58:44.2003 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 19:58:44.2003 Info Found 88 configuration items
+2020-04-01 19:58:44.4108 Info Configuration initialized.
+2020-04-01 19:58:44.4392 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 20:41:35.9699 Info Message Template Auto Format enabled
+2020-04-01 20:41:35.9954 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 20:41:36.2292 Info Adding target FileTarget(Name=alldata)
+2020-04-01 20:41:36.2292 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 20:41:36.2449 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 20:41:36.2449 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 20:41:36.3191 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 20:41:36.3351 Info Found 88 configuration items
+2020-04-01 20:41:36.4897 Info Configuration initialized.
+2020-04-01 20:41:36.5048 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 20:46:14.3484 Info Message Template Auto Format enabled
+2020-04-01 20:46:14.3580 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 20:46:14.4821 Info Adding target FileTarget(Name=alldata)
+2020-04-01 20:46:14.4821 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 20:46:14.4943 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 20:46:14.4943 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 20:46:14.5453 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 20:46:14.5554 Info Found 88 configuration items
+2020-04-01 20:46:14.6678 Info Configuration initialized.
+2020-04-01 20:46:14.6678 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 20:55:31.0370 Info Message Template Auto Format enabled
+2020-04-01 20:55:31.0516 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 20:55:31.1578 Info Adding target FileTarget(Name=alldata)
+2020-04-01 20:55:31.1578 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 20:55:31.1717 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 20:55:31.1808 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 20:55:31.2223 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 20:55:31.2326 Info Found 88 configuration items
+2020-04-01 20:55:31.3040 Info Configuration initialized.
+2020-04-01 20:55:31.3087 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-01 20:56:00.6414 Info Message Template Auto Format enabled
+2020-04-01 20:56:00.6637 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-01 20:56:00.9976 Info Adding target FileTarget(Name=alldata)
+2020-04-01 20:56:00.9976 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-01 20:56:01.0425 Info Adding target DatabaseTarget(Name=database)
+2020-04-01 20:56:01.0425 Info Adding target NullTarget(Name=blackhole)
+2020-04-01 20:56:01.0997 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-01 20:56:01.1146 Info Found 88 configuration items
+2020-04-01 20:56:01.2607 Info Configuration initialized.
+2020-04-01 20:56:01.2741 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 19:47:44.3348 Info Message Template Auto Format enabled
+2020-04-02 19:47:44.3582 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 19:47:44.5216 Info Adding target FileTarget(Name=alldata)
+2020-04-02 19:47:44.5246 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 19:47:44.5422 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 19:47:44.5422 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 19:47:44.5726 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 19:47:44.5726 Info Found 88 configuration items
+2020-04-02 19:47:44.6547 Info Configuration initialized.
+2020-04-02 19:47:44.6547 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 19:53:37.3277 Info Message Template Auto Format enabled
+2020-04-02 19:53:37.3404 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 19:53:37.5446 Info Adding target FileTarget(Name=alldata)
+2020-04-02 19:53:37.5446 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 19:53:37.5560 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 19:53:37.5560 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 19:53:37.5901 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 19:53:37.5901 Info Found 88 configuration items
+2020-04-02 19:53:37.9338 Info Configuration initialized.
+2020-04-02 19:53:37.9650 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 20:06:06.9533 Info Message Template Auto Format enabled
+2020-04-02 20:06:06.9671 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 20:06:07.0597 Info Adding target FileTarget(Name=alldata)
+2020-04-02 20:06:07.0597 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 20:06:07.0700 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 20:06:07.0700 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 20:06:07.1156 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 20:06:07.1221 Info Found 88 configuration items
+2020-04-02 20:06:07.1881 Info Configuration initialized.
+2020-04-02 20:06:07.1962 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 20:09:30.8469 Info Message Template Auto Format enabled
+2020-04-02 20:09:30.8600 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 20:09:31.0852 Info Adding target FileTarget(Name=alldata)
+2020-04-02 20:09:31.0878 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 20:09:31.0878 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 20:09:31.0878 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 20:09:31.1289 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 20:09:31.1352 Info Found 88 configuration items
+2020-04-02 20:09:31.2409 Info Configuration initialized.
+2020-04-02 20:09:31.2534 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 20:17:42.9455 Info Message Template Auto Format enabled
+2020-04-02 20:17:42.9572 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 20:17:43.0805 Info Adding target FileTarget(Name=alldata)
+2020-04-02 20:17:43.0887 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 20:17:43.1056 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 20:17:43.1056 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 20:17:43.1422 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 20:17:43.1493 Info Found 88 configuration items
+2020-04-02 20:17:43.2518 Info Configuration initialized.
+2020-04-02 20:17:43.2629 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:04:51.8317 Info Message Template Auto Format enabled
+2020-04-02 21:04:51.8474 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:04:51.9566 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:04:51.9566 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:04:51.9792 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:04:51.9792 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:04:52.0217 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:04:52.0287 Info Found 88 configuration items
+2020-04-02 21:04:52.0949 Info Configuration initialized.
+2020-04-02 21:04:52.1021 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:06:05.7291 Info Message Template Auto Format enabled
+2020-04-02 21:06:05.7429 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:06:05.8728 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:06:05.8728 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:06:05.8879 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:06:05.8984 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:06:05.9384 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:06:05.9460 Info Found 88 configuration items
+2020-04-02 21:06:06.0229 Info Configuration initialized.
+2020-04-02 21:06:06.0308 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:07:34.0009 Info Message Template Auto Format enabled
+2020-04-02 21:07:34.0247 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:07:34.1832 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:07:34.1832 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:07:34.2202 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:07:34.2202 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:07:34.2659 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:07:34.2659 Info Found 88 configuration items
+2020-04-02 21:07:34.3754 Info Configuration initialized.
+2020-04-02 21:07:34.3874 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:30:50.1817 Info Message Template Auto Format enabled
+2020-04-02 21:30:50.1817 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:30:50.2847 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:30:50.2847 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:30:50.2956 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:30:50.2956 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:30:50.3343 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:30:50.3401 Info Found 88 configuration items
+2020-04-02 21:30:50.4045 Info Configuration initialized.
+2020-04-02 21:30:50.4045 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:30:51.0849 Info AppDomain Shutting down. Logger closing...
+2020-04-02 21:30:51.1091 Info Logger has been shut down.
+2020-04-02 21:31:15.9521 Info Message Template Auto Format enabled
+2020-04-02 21:31:15.9633 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:31:16.0532 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:31:16.0559 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:31:16.0559 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:31:16.0706 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:31:16.0997 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:31:16.1058 Info Found 88 configuration items
+2020-04-02 21:31:16.1593 Info Configuration initialized.
+2020-04-02 21:31:16.1643 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.
+2020-04-02 21:31:16.7320 Info AppDomain Shutting down. Logger closing...
+2020-04-02 21:31:16.7542 Info Logger has been shut down.
+2020-04-02 21:31:28.5581 Info Message Template Auto Format enabled
+2020-04-02 21:31:28.5727 Info Loading assembly: NLog.Web.AspNetCore
+2020-04-02 21:31:28.7067 Info Adding target FileTarget(Name=alldata)
+2020-04-02 21:31:28.7067 Info Adding target FileTarget(Name=otherFile-web)
+2020-04-02 21:31:28.7335 Info Adding target DatabaseTarget(Name=database)
+2020-04-02 21:31:28.7335 Info Adding target NullTarget(Name=blackhole)
+2020-04-02 21:31:28.7686 Info LogManager.ThrowExceptions = true can crash the application! Use only for unit-testing and last resort troubleshooting.
+2020-04-02 21:31:28.7828 Info Found 88 configuration items
+2020-04-02 21:31:28.9854 Info Configuration initialized.
+2020-04-02 21:31:28.9993 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.0.11381. Product version: 4.7.0+4d138800820311d0b60b6437f1dd2ed1d571d47d.

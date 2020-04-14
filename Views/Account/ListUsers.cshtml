@@ -1,0 +1,61 @@
+﻿@model IQueryable<ApplicationUser>
+@{
+    ViewBag.Title = "All Users";
+}
+<h1>All Users</h1>
+<a asp-controller="Account" asp-action="Register" class="btn btn-primary" style="width:auto">Add New User</a>
+@if (Model.Any())
+{
+    foreach (var user in Model)
+    {
+        <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+            <div class="card-deck">
+                <div class="card mt-3">
+                    <div class="card-header">
+                        User Id: @user.Id
+                    </div>
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h5>@user.UserName</h5>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        
+                        <form asp-controller="Account" asp-action="DeleteUser" asp-route-Id ="@user.Id" method="post">
+                            
+                            <a asp-controller="Account" asp-action="EditUser" asp-route-Id="@user.Id" class="btn btn-primary" style="width:auto;display:inline">Edit</a>
+                            
+                            <a href="#" id="deletespan_@user.Id" class="btn btn-danger" style="width:auto;" onclick="ConfirmDelete('@user.Id',true)">Delete</a>
+                            
+                            <span id="confirmdelete_@user.Id" style="display:none">
+                                <span>Are you sure you want to delete?</span>
+                                <button type="submit" class="btn btn-danger" onclick="ConfirmDelete('@user.Id',true)">Yes</button>
+                                <a asp-route-Id="@user.Id" class="btn btn-primary" style="width:auto" onclick="ConfirmDelete('@user.Id',false)">No</a>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <div class="card-deck">
+        <div class="card m-3">
+            <div class="card-header">
+                
+            </div>
+            <div class="card-body">
+
+                <h5 class="card-title">No users created yet</h5>
+            </div>
+            <div class="card-footer">
+            </div>
+        </div>
+    </div>
+}
+@section Scripts{ 
+
+    <script src="~/js/CustomScript.js"></script>
+}
